@@ -1,0 +1,295 @@
+{
+  "contact": {
+    "whatsapp": "447766403034",
+    "phoneDisplay": "07766 403034",
+    "instagram": "https://instagram.com",
+    "artistName": "Trisha"
+  },
+  "brand": {
+    "name": "TRISHA",
+    "sub": "HEENA & MEHNDI",
+    "tagline": "EXPERIENCE THE JOY OF HENNA"
+  },
+  "hero": {
+    "eyebrow": "STAFFORDSHIRE BASED · TRAVELLING UK-WIDE",
+    "title": "Bridal & party henna, hand-drawn for you",
+    "body": "Experience the joy of henna — 100% natural, handmade cones for weddings, mehndi nights, Eid, festivals and fairs. Home service available.",
+    "primaryCta": "Book on WhatsApp",
+    "secondaryCta": "See designs",
+    "note": "Replies within a few hours · 07766 403034",
+    "imageAlt": "Bridal hands with full mehndi",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bridal%20Details.jpg?width=900",
+    "imageCredit": "Bridal Details.jpg — Wikimedia Commons, CC BY-SA"
+  },
+  "badges": [
+    {
+      "title": "100% natural cones",
+      "body": "Hand-mixed from Indian henna powder. Never black henna or PPD."
+    },
+    {
+      "title": "We come to you",
+      "body": "Home & venue visits across Staffordshire and beyond."
+    },
+    {
+      "title": "Deposit secures the date",
+      "body": "£25 booking fee, deducted from your final price."
+    }
+  ],
+  "services": {
+    "eyebrow": "SERVICES & PRICES",
+    "title": "From one hand to a full bridal night",
+    "body": "Guide prices — final quote depends on design detail, guest numbers and travel. Message on WhatsApp with your date and I'll confirm.",
+    "items": [
+      {
+        "title": "Bridal Mehndi",
+        "body": "Full hands and feet, intricate Indian, Arabic or fusion work. Includes free design consultation, aftercare kit and touch-ups for the bride.",
+        "price": "from £150",
+        "cta": "ENQUIRE ON WHATSAPP",
+        "wa": "bridal"
+      },
+      {
+        "title": "Mehndi Party & Guests",
+        "body": "Hourly artist hire for your mehndi night, sangeet or family function. Roughly 6–8 guest designs an hour.",
+        "price": "from £60 / hour",
+        "cta": "CHECK MY DATE",
+        "wa": "party"
+      },
+      {
+        "title": "Eid, Karva Chauth & Festivals",
+        "body": "Seasonal slots at home or pop-up. Book early — Eid and Karva Chauth weeks fill first.",
+        "price": "from £15 per person",
+        "cta": "JOIN THE SLOT LIST",
+        "wa": "festival"
+      },
+      {
+        "title": "Baby Showers & Birthdays",
+        "body": "Bump henna, kids' quick motifs and glitter finishes. Gentle, skin-safe paste and fast designs for little hands.",
+        "price": "from £60 / hour",
+        "cta": "ENQUIRE ON WHATSAPP",
+        "wa": "party"
+      },
+      {
+        "title": "Events, Fairs & Brands",
+        "body": "University melas, school fairs, corporate Diwali and market stalls. Table, signage and setup included.",
+        "price": "half day from £180",
+        "cta": "REQUEST A QUOTE",
+        "wa": "event"
+      },
+      {
+        "title": "Henna Workshops",
+        "body": "Two-hour beginner classes for hen parties, youth groups and community centres. Cones and practice sheets provided.",
+        "price": "from £25 per head",
+        "cta": "ASK ABOUT DATES",
+        "wa": "workshop"
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "PORTFOLIO",
+    "title": "Recent work",
+    "filters": [
+      "ALL",
+      "BRIDAL",
+      "ARABIC",
+      "INDIAN",
+      "MINIMAL"
+    ],
+    "note": "More designs on Instagram — new work posted weekly.",
+    "items": [
+      {
+        "label": "bridal hands — full",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mehndi%20designs%20hand.jpg?width=900",
+        "tag": "BRIDAL",
+        "credit": "Mehndi designs hand.jpg — Wikimedia Commons, CC BY-SA"
+      },
+      {
+        "label": "arabic forearm",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arabic%20Mehndi%20Design.jpg?width=900",
+        "tag": "ARABIC",
+        "credit": "Arabic Mehndi Design.jpg — Wikimedia Commons, CC BY-SA"
+      },
+      {
+        "label": "indian jaali detail",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mehendi%20design.jpg?width=900",
+        "tag": "INDIAN",
+        "credit": "Mehendi design.jpg — Wikimedia Commons, CC BY-SA"
+      },
+      {
+        "label": "minimal fine-line",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Moderate%20Mehndi%20Design.jpg?width=900",
+        "tag": "MINIMAL",
+        "credit": "Moderate Mehndi Design.jpg — Wikimedia Commons, CC BY-SA"
+      },
+      {
+        "label": "feet — bridal",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bridal%20feet.jpg?width=900",
+        "tag": "BRIDAL",
+        "credit": "Bridal feet.jpg — Wikimedia Commons, CC BY-SA"
+      },
+      {
+        "label": "guest design",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mehendi%20Hand.jpg?width=900",
+        "tag": "ARABIC",
+        "credit": "Mehendi Hand.jpg — Wikimedia Commons, CC BY-SA"
+      },
+      {
+        "label": "full-hand detail",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MARUDHANI.jpg?width=900",
+        "tag": "INDIAN",
+        "credit": "MARUDHANI.jpg — Wikimedia Commons, CC BY-SA"
+      },
+      {
+        "label": "simple motif",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mehandhi.jpg?width=900",
+        "tag": "MINIMAL",
+        "credit": "Mehandhi.jpg — Wikimedia Commons, CC BY-SA"
+      }
+    ]
+  },
+  "trends": {
+    "eyebrow": "NEW FOR THIS SEASON",
+    "title": "2026 looks you can book",
+    "items": [
+      {
+        "title": "Arabic–Indian fusion",
+        "body": "Bold Arabic blooms anchoring fine Indian jaali filler — the most-requested bridal style this season."
+      },
+      {
+        "title": "Negative-space blooms",
+        "body": "Flowers left bare against a solid henna ground — deep mahogany contrast that photographs beautifully."
+      },
+      {
+        "title": "Jewellery mehndi",
+        "body": "Hathphool and zanjeer chains drawn to echo your actual bridal set — send a photo and I'll match it."
+      },
+      {
+        "title": "Story motifs",
+        "body": "Initials, your city skyline, a first-date detail — hidden inside the pattern for the two of you to find."
+      }
+    ]
+  },
+  "coverage": {
+    "eyebrow": "WHERE I TRAVEL",
+    "title": "Staffordshire based, happy to travel",
+    "body": "Home and venue visits across the Midlands, with travel further afield by arrangement. A small mileage fee may apply for longer journeys, and overnight bookings are welcome for weddings further away.",
+    "areas": [
+      "Staffordshire",
+      "Wolverhampton",
+      "Birmingham",
+      "Stoke-on-Trent",
+      "Telford",
+      "Manchester",
+      "London",
+      "Leicester"
+    ]
+  },
+  "booking": {
+    "title": "How booking works",
+    "steps": [
+      "Message on WhatsApp with your date, town and occasion.",
+      "Share inspiration pictures — I'll quote and hold the slot 48 hours.",
+      "£25 deposit confirms the date. Balance on the day, cash or transfer."
+    ],
+    "cta": "Start on WhatsApp"
+  },
+  "safety": {
+    "eyebrow": "INGREDIENTS & SAFETY",
+    "title": "Only natural henna. Nothing else.",
+    "body": "Every cone is mixed by hand from body-art quality henna powder sourced from India, with lemon, sugar and essential oils. Fresh paste made for each booking — never shop-bought instant cones.",
+    "points": [
+      {
+        "lead": "What's in the cone:",
+        "body": "pure Lawsonia inermis henna powder, lemon juice, sugar, lavender and cajeput essential oils."
+      },
+      {
+        "lead": "Never black henna or PPD.",
+        "body": "Black henna is illegal on skin in the UK and can cause burns and permanent scarring. It is never used here."
+      },
+      {
+        "lead": "Patch tests welcome.",
+        "body": "If you have sensitive skin, eczema or a known allergy, ask for a free patch test at least 48 hours before your booking."
+      },
+      {
+        "lead": "Clean practice.",
+        "body": "Fresh cones per client, sanitised tools, gloves on request, and full aftercare instructions with every booking."
+      }
+    ],
+    "warnTitle": "How to spot unsafe henna",
+    "warnBody": "Worth knowing wherever you get your mehndi done.",
+    "warnings": [
+      {
+        "title": "It goes black in under an hour",
+        "body": "Natural henna is orange at first and darkens over 48 hours. Instant black means chemicals."
+      },
+      {
+        "title": "The paste smells chemical",
+        "body": "Real henna smells earthy and of essential oils, never of hair dye or ammonia."
+      },
+      {
+        "title": "It burns or stings",
+        "body": "Henna should feel cool. Any stinging — wash it off immediately and seek advice."
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "KIND WORDS",
+    "items": [
+      {
+        "quote": "She stayed until every guest was done and my stain came out almost black.",
+        "cite": "SANA — WEDDING, WOLVERHAMPTON"
+      },
+      {
+        "quote": "Calm, quick and so precise. My bridal hands took three hours and flew by.",
+        "cite": "PRIYA — BRIDE, STAFFORDSHIRE"
+      },
+      {
+        "quote": "Booked her for our Eid party at two days' notice — twenty pairs of hands, no fuss.",
+        "cite": "AMINA — EID EVENT, BIRMINGHAM"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "GOOD TO KNOW",
+    "title": "Questions before you book",
+    "items": [
+      {
+        "q": "When should I have my bridal henna done?",
+        "a": "Two days before the wedding gives the darkest stain. The colour keeps deepening for 48 hours after the paste comes off."
+      },
+      {
+        "q": "Do you use black henna?",
+        "a": "Never. Black henna contains PPD, is illegal on skin in the UK and can burn or scar. I use handmade natural henna only, mixed from body-art quality powder sourced in India."
+      },
+      {
+        "q": "How long does a bridal design take?",
+        "a": "Two to five hours depending on coverage. Full hands and feet with dense detail sit at the upper end."
+      },
+      {
+        "q": "How do I get the darkest stain?",
+        "a": "Keep the paste on 6–8 hours, scrape it off rather than washing, and avoid water for 12 hours. An aftercare card comes with every bridal booking."
+      },
+      {
+        "q": "Do you travel to my venue?",
+        "a": "Yes — home and venue visits across the Midlands, the North West and London. Any travel cost is quoted upfront with your booking."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Let's plan your mehndi",
+    "body": "Tell me your date and town — I'll come back with availability and a price the same day.",
+    "button": "Message on WhatsApp"
+  },
+  "footer": {
+    "legal": "Mobile henna artist · Staffordshire & UK-wide · © 2026",
+    "credits": "Placeholder photography from Wikimedia Commons (CC BY-SA) — to be replaced with Trisha's own work."
+  },
+  "whatsappMessages": {
+    "general": "Hi {name}, I found your website and would love to know more about your henna.",
+    "booking": "Hi {name}! I'd like to book henna.\nDate: \nTown: \nOccasion: \nNumber of people: ",
+    "bridal": "Hi {name}, I'm interested in bridal mehndi.\nWedding date: \nVenue/town: ",
+    "party": "Hi {name}, I'd like to book you for a mehndi party.\nDate: \nTown: \nApprox guests: ",
+    "festival": "Hi {name}, please add me to your festival slot list (Eid / Karva Chauth / Diwali).",
+    "event": "Hi {name}, I'd like a quote for henna at an event.\nDate: \nLocation: \nHours needed: ",
+    "workshop": "Hi {name}, I'd like to know about your henna workshops.\nGroup size: \nPreferred date: "
+  }
+}
