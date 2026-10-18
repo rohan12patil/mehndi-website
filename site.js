@@ -55,6 +55,17 @@
     setText("[data-c='services.eyebrow']", d.services.eyebrow);
     setText("[data-c='services.title']", d.services.title);
     setText("[data-c='services.body']", d.services.body);
+    var note = d.services.note;
+    var noteBox = document.querySelector("[data-price-note]");
+    if (noteBox) {
+      if (note && note.title) {
+        setText("[data-c='services.note.kicker']", note.kicker || "");
+        setText("[data-c='services.note.title']", note.title);
+        setText("[data-c='services.note.body']", note.body || "");
+      } else {
+        noteBox.hidden = true;
+      }
+    }
     var svc = document.querySelector("[data-list='services']");
     svc.innerHTML = "";
     d.services.items.forEach(function (s) {

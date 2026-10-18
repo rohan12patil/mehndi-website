@@ -18,7 +18,7 @@
     "secondaryCta": "See designs",
     "note": "Replies within a few hours · 07766 403034",
     "imageAlt": "Bridal hands with full mehndi",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bridal%20Details.jpg?width=900",
+    "image": "images/0.jpg",
     "imageCredit": "Bridal Details.jpg — Wikimedia Commons, CC BY-SA"
   },
   "badges": [
@@ -39,46 +39,51 @@
     "eyebrow": "SERVICES & PRICES",
     "title": "From one hand to a full bridal night",
     "body": "Guide prices — final quote depends on design detail, guest numbers and travel. Message on WhatsApp with your date and I'll confirm.",
+    "note": {
+      "kicker": "PLEASE NOTE",
+      "title": "Price varies from design to design",
+      "body": "Every design is drawn freehand, so the price depends on detail, coverage and size. Send a photo of the design you like on WhatsApp for an exact quote."
+    },
     "items": [
       {
         "title": "Bridal Mehndi",
         "body": "Full hands and feet, intricate Indian, Arabic or fusion work. Includes free design consultation, aftercare kit and touch-ups for the bride.",
-        "price": "from £150",
+        "price": "from £150 onwards",
         "cta": "ENQUIRE ON WHATSAPP",
         "wa": "bridal"
       },
       {
         "title": "Mehndi Party & Guests",
         "body": "Hourly artist hire for your mehndi night, sangeet or family function. Roughly 6–8 guest designs an hour.",
-        "price": "from £60 / hour",
+        "price": "from £40 onwards",
         "cta": "CHECK MY DATE",
         "wa": "party"
       },
       {
         "title": "Eid, Karva Chauth & Festivals",
         "body": "Seasonal slots at home or pop-up. Book early — Eid and Karva Chauth weeks fill first.",
-        "price": "from £15 per person",
+        "price": "from £10 - £15 per person as per designs",
         "cta": "JOIN THE SLOT LIST",
         "wa": "festival"
       },
       {
         "title": "Baby Showers & Birthdays",
         "body": "Bump henna, kids' quick motifs and glitter finishes. Gentle, skin-safe paste and fast designs for little hands.",
-        "price": "from £60 / hour",
+        "price": "from £50 onwards",
         "cta": "ENQUIRE ON WHATSAPP",
         "wa": "party"
       },
       {
         "title": "Events, Fairs & Brands",
         "body": "University melas, school fairs, corporate Diwali and market stalls. Table, signage and setup included.",
-        "price": "half day from £180",
+        "price": "half day from £150",
         "cta": "REQUEST A QUOTE",
         "wa": "event"
       },
       {
         "title": "Henna Workshops",
-        "body": "Two-hour beginner classes for hen parties, youth groups and community centres. Cones and practice sheets provided.",
-        "price": "from £25 per head",
+        "body": "Two-hour beginner classes for parties, youth groups and community centres. Cones and practice sheets provided.",
+        "price": "from £20 per head",
         "cta": "ASK ABOUT DATES",
         "wa": "workshop"
       }
@@ -89,60 +94,58 @@
     "title": "Recent work",
     "filters": [
       "ALL",
-      "BRIDAL",
-      "ARABIC",
-      "INDIAN",
-      "MINIMAL"
+      "BRIDAL",      
+      "INDIAN"      
     ],
     "note": "More designs on Instagram — new work posted weekly.",
     "items": [
       {
         "label": "bridal hands — full",
-        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mehndi%20designs%20hand.jpg?width=900",
-        "tag": "BRIDAL",
-        "credit": "Mehndi designs hand.jpg — Wikimedia Commons, CC BY-SA"
+        "image": "images/1.jpg",
+        "tag": "BRIDAL"
+       
       },
       {
         "label": "arabic forearm",
-        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arabic%20Mehndi%20Design.jpg?width=900",
-        "tag": "ARABIC",
-        "credit": "Arabic Mehndi Design.jpg — Wikimedia Commons, CC BY-SA"
+        "image": "images/2.jpg",
+        "tag": "BRIDAL"
+       
       },
       {
         "label": "indian jaali detail",
-        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mehendi%20design.jpg?width=900",
-        "tag": "INDIAN",
-        "credit": "Mehendi design.jpg — Wikimedia Commons, CC BY-SA"
+        "image": "images/3.jpg",
+        "tag": "INDIAN"
+       
       },
       {
         "label": "minimal fine-line",
-        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Moderate%20Mehndi%20Design.jpg?width=900",
-        "tag": "MINIMAL",
-        "credit": "Moderate Mehndi Design.jpg — Wikimedia Commons, CC BY-SA"
+        "image": "images/4.jpg",
+        "tag": ""
+       
       },
       {
         "label": "feet — bridal",
-        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bridal%20feet.jpg?width=900",
-        "tag": "BRIDAL",
-        "credit": "Bridal feet.jpg — Wikimedia Commons, CC BY-SA"
+        "image": "images/5.jpg",
+        "tag": "BRIDAL"
+       
       },
       {
         "label": "guest design",
-        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mehendi%20Hand.jpg?width=900",
-        "tag": "ARABIC",
-        "credit": "Mehendi Hand.jpg — Wikimedia Commons, CC BY-SA"
+        "image": "images/6.jpg",
+        "tag": ""
+       
       },
       {
         "label": "full-hand detail",
-        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MARUDHANI.jpg?width=900",
-        "tag": "INDIAN",
-        "credit": "MARUDHANI.jpg — Wikimedia Commons, CC BY-SA"
+        "image": "images/7.jpg",
+        "tag": "INDIAN"
+       
       },
       {
         "label": "simple motif",
-        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mehandhi.jpg?width=900",
-        "tag": "MINIMAL",
-        "credit": "Mehandhi.jpg — Wikimedia Commons, CC BY-SA"
+        "image": "images/8.jpg",
+        "tag": ""
+       
       }
     ]
   },
@@ -281,7 +284,7 @@
   },
   "footer": {
     "legal": "Mobile henna artist · Staffordshire & UK-wide · © 2026",
-    "credits": "Placeholder photography from Wikimedia Commons (CC BY-SA) — to be replaced with Trisha's own work."
+    "credits": ""
   },
   "whatsappMessages": {
     "general": "Hi {name}, I found your website and would love to know more about your henna.",
