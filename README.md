@@ -23,6 +23,13 @@ Almost everything is in `content.json`. Change the text, save, refresh.
 - **FAQs** — `faq.items`.
 - **Pre-filled WhatsApp messages** — `whatsappMessages`. `{name}` is replaced with `contact.artistName`.
 
+### Light and dark mode
+
+The site opens in the visitor's device setting (light or dark). The sun/moon button in the header
+switches it, and the choice is remembered on that device. All colours for both modes are the
+tokens at the top of `styles.css`: dark values on `:root`, light values in the two blocks below it
+(keep those two light blocks identical).
+
 ### Adding real photos
 
 1. Put the images in `images/` (square-ish, ~1200px, compressed).

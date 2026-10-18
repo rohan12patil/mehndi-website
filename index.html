@@ -12,6 +12,10 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&amp;family=Jost:wght@300;400;500;600&amp;display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="styles.css" />
+<script>
+  /* apply the saved light/dark choice before the page paints */
+  try { var t = localStorage.getItem("theme"); if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) {}
+</script>
 </head>
 <body>
 
@@ -23,6 +27,10 @@
   <nav class="site-nav">
     <a class="navlink" href="#gallery">GALLERY</a>
     <a class="navlink" href="#services">SERVICES</a>
+    <button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch light or dark mode">
+      <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M5.3 18.7l1.6-1.6M17.1 6.9l1.6-1.6"/></svg>
+      <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" aria-hidden="true"><path d="M20 14.6A8.2 8.2 0 0 1 9.4 4a8.2 8.2 0 1 0 10.6 10.6z"/></svg>
+    </button>
     <a class="btn-wa sm" data-wa="general" target="_blank" rel="noopener"><span class="dot"></span>WhatsApp</a>
   </nav>
 </header>
@@ -70,7 +78,7 @@
   <p class="intro" style="margin-top:20px;margin-bottom:0" data-c="gallery.note"></p>
 </section>
 
-<section class="section" style="background:linear-gradient(180deg,#1B1208,#140D07);border-top:1px solid var(--line)">
+<section class="section band">
   <div class="wrap">
     <p class="eyebrow" data-c="trends.eyebrow"></p>
     <h2 style="margin-bottom:26px" data-c="trends.title"></h2>

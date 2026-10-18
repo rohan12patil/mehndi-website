@@ -1,6 +1,21 @@
 (function () {
   var DATA = null;
 
+  // light / dark toggle — follows the device setting until the visitor picks one
+  var root = document.documentElement;
+  function currentTheme() {
+    var t = root.getAttribute("data-theme");
+    if (t === "light" || t === "dark") return t;
+    return window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+  }
+  document.querySelectorAll("[data-theme-toggle]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var next = currentTheme() === "light" ? "dark" : "light";
+      root.setAttribute("data-theme", next);
+      try { localStorage.setItem("theme", next); } catch (e) {}
+    });
+  });
+
   function esc(s) { return String(s == null ? "" : s); }
   function el(tag, cls, text) {
     var n = document.createElement(tag);
